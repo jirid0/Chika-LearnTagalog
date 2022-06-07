@@ -1,4 +1,11 @@
 # Chika-LearnTagalog
+
+Download instructions:
+1. Go to code tab and download as ZIP.
+2. Open the folder into a code editor, preferebly VS Code. 
+3. In VS code open the terminal and use "npm start"
+4. From there you can access the app and such.
+
 Terminal Commands:
 expo init "projectname" -> makes new project
 code . -> opens editor for project
