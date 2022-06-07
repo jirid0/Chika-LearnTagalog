@@ -1,7 +1,7 @@
 # Chika-LearnTagalog
 
 Technologies: 
-Node V.12 or higher
+Node V.12 or higher\n
 Expo Client (installation instructions below)
 
 Download instructions:
