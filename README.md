@@ -1,5 +1,9 @@
 # Chika-LearnTagalog
 
+Technologies: 
+Node V.12 or higher
+Expo Client (installation instructions below)
+
 Download instructions:
 
 1. Go to code tab and download as ZIP and extract files.
