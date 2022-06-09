@@ -11,3 +11,5 @@ Download instructions:
 3. In VS code open the terminal and use "npm start"
 4. If you get an error talking about installing expo, use "npm install"
 5. From there you can access the app and such.
+
+or just clone 
