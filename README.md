@@ -1,6 +1,6 @@
 # Chika-LearnTagalog
 
-Technologies: 
+Technologies:
 Node V.12 or higher\
 Expo Client (installation instructions below)
 
@@ -12,4 +12,8 @@ Download instructions:
 4. If you get an error talking about installing expo, use "npm install"
 5. From there you can access the app and such.
 
+<<<<<<< HEAD
 or just clone 
+=======
+Or just pull
+>>>>>>> 397071b6b7405f3eee43eb2076e4bdacf850aa50

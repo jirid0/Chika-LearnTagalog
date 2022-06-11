@@ -14,7 +14,7 @@ export default function App() {
       <Container color='white'>
         <CustomText>Left Menu</CustomText>
       </Container>
-      <Home color="#34ebc9">
+      <Home color='red'>
         <Image source={require('./assets/favicon.png')} />
         <HomeText>Home Screen</HomeText>
       </Home>
